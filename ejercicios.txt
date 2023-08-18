@@ -1,0 +1,10 @@
+1. Escribir una función que calcule el área de un círculo dado su radio.
+2. Crear una función que tome una lista de números y devuelva su suma.
+3. Definir una función que determine si un número dado es par o impar.
+4. Implementar una función que encuentre el máximo de tres números.
+5. Escribir una función que convierta grados Celsius a Fahrenheit.
+6. Crear una función que verifique si una palabra es un palíndromo (se lee igual al revés).
+7. Escribir una función que calcule el área de un triángulo dado su base y altura.
+8. Crear una función que cuente la cantidad de dígitos en un número entero.
+9. Escribir una función que ordene una lista de números de menor a mayor.
+10. Definir una función que calcule el área de un rectángulo dadas su longitud y ancho.
